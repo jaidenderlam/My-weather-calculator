@@ -1,0 +1,42 @@
+main{
+    background: linear-gradient(to bottom, #0f0c29, #302b63, #000000);
+     background-repeat: none;
+}
+.canvas-area{
+    display: block;
+}
+.canvas-area, .canvas-conditions{
+    margin: 0 auto;
+}
+.canvas-conditions{
+    display: block;
+    margin-top: 50px;
+    position: static;
+    min-width: 500px;
+    min-height: 500px;
+    background-color: rgb(19, 110, 47);
+    border-radius: 20px 30px;
+    border: 2px solid rgb(0, 0, 0)
+}
+h1{
+    background-color :#BEDEFF;
+    text-align:center;
+    font-size: 40px;
+    font-family: Times New Roman", Times, serif;
+}
+@font-face {
+    font-family:BBH Bogle ;
+    src: url(https://fonts.google.com/specimen/BBH+Bogle?query=b);
+}
+.temp-style {
+    font-family: BBH Bogle;
+    font-size: 40px;
+    font-weight: bold;
+}
+footer{
+    background-color: navy;
+    margin: none;
+    color:white;
+}
+
+
